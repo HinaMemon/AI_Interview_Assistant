@@ -1,0 +1,5 @@
+google-generativeai
+tk
+speechrecognition
+pyaudio
+pyttsx3
